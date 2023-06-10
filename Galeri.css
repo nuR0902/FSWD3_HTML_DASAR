@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(250, 169, 213);
+    margin-left: 100px;
+    margin-right: 100px;
+}
+h1 {
+    text-align: center;
+    
+}
+div{
+    display: inline-block;
+    padding: 0;
+    margin: 8px;
+    border-radius: 18px;
+}
+
+.galeri{
+  width: 255px;
+  height: 500px;
+  box-sizing: border-box;
+  border: 3px solid #228097;
+  text-align: center;
+  padding: 0;
+  border-radius: 10px;
+  background-color: rgb(149, 219, 247);
+}  
+  .galerii{
+    width: 255px;
+    height: 500px;
+    box-sizing: border-box;
+    border: 3px solid #ce3607;
+    text-align: center;
+    padding: 0;
+    border-radius: 10px;
+    background-color: rgb(250, 212, 226);
+  }   
+.gallery:hover {
+    border: 2px solid #f7ca4e;
+  }
+   
+ 
